@@ -1,22 +1,21 @@
-# TensorFlow Course
+# TensorFlow Learning  
 
-Welcome to my **TensorFlow Learning** repository! This repository contains my notes, exercises, and projects as I progress through learning **TensorFlow** for deep learning and machine learning applications.  
+This repository contains my **TensorFlow learning journey**, including exercises, projects, and notes.
 
 ## 🚀 Getting Started  
 
-### 1️⃣ Install TensorFlow  
-Ensure you have TensorFlow installed:  
+1️⃣ Install TensorFlow:  
 ```bash
 pip install tensorflow
 ```
 
-### 2️⃣ Clone the Repository  
+2️⃣ Clone the repository:  
 ```bash
 git clone https://github.com/asmaalrifai/TensorFlow.git
 cd TensorFlow
 ```
 
-### 3️⃣ Run Python Scripts  
+3️⃣ Run Python scripts:  
 ```bash
 python filename.py
 ```
@@ -24,25 +23,16 @@ python filename.py
 ## 📌 Topics Covered  
 
 - TensorFlow Basics  
-- Building Neural Networks  
+- Neural Networks  
 - Model Training & Optimization  
-- Convolutional & Recurrent Neural Networks  
-- Transformers & Model Deployment  
+- CNNs, RNNs, and Transformers  
 
-## 📈 Progress  
+## 🛠️ Tools  
 
-- [x] TensorFlow Basics  
-- [x] Neural Networks  
-- [ ] CNNs & RNNs  
-- [ ] Transformers & Deployment  
-
-## 🛠️ Tools & Technologies  
-
-- **Python**  
-- **TensorFlow**  
-- **Jupyter Notebook**  
-- **VS Code**  
+- Python  
+- TensorFlow  
+- Jupyter Notebook  
 
 ## 🤝 Contributing  
 
-This is a personal learning repository, but if you have suggestions, feel free to open an **issue** or submit a **pull request**.
+Suggestions are welcome! Open an **issue** or submit a **pull request**.

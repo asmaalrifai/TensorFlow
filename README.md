@@ -1,38 +1,34 @@
 # TensorFlow Learning  
 
-This repository contains my **TensorFlow learning journey**, including exercises, projects, and notes.
+This repository contains my **TensorFlow learning progress**, including exercises and projects.
 
-## 🚀 Getting Started  
+## 🚀 Setup  
 
-1️⃣ Install TensorFlow:  
-```bash
-pip install tensorflow
-```
+1. Install TensorFlow:  
+   ```bash
+   pip install tensorflow
+   ```
+2. Clone the repository:  
+   ```bash
+   git clone https://github.com/asmaalrifai/TensorFlow.git
+   cd TensorFlow
+   ```
+3. Run a script:  
+   ```bash
+   python filename.py
+   ```
 
-2️⃣ Clone the repository:  
-```bash
-git clone https://github.com/asmaalrifai/TensorFlow.git
-cd TensorFlow
-```
-
-3️⃣ Run Python scripts:  
-```bash
-python filename.py
-```
-
-## 📌 Topics Covered  
+## 📌 Topics  
 
 - TensorFlow Basics  
 - Neural Networks  
-- Model Training & Optimization  
-- CNNs, RNNs, and Transformers  
+- Model Training  
+- CNNs & RNNs  
 
-## 🛠️ Tools  
+## 🛠 Tools  
 
 - Python  
 - TensorFlow  
 - Jupyter Notebook  
 
-## 🤝 Contributing  
-
-Suggestions are welcome! Open an **issue** or submit a **pull request**.
+Suggestions? Feel free to **open an issue** or **submit a pull request**!
